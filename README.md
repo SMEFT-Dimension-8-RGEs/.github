@@ -14,7 +14,6 @@ Model effective operators by pairs of the leading dimension-six interactions.  [
 * Jose Santiago
 * Maria Ramos
 * Mikael Chala
-* Supratim Das Bakshi
 
 ## Citation
 
