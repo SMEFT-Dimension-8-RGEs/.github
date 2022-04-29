@@ -10,10 +10,14 @@ Model effective operators by pairs of the leading dimension-six interactions.  [
 3. [Folder_name]: 
 
 ## Authors
-"*" Author_names Alvaro, ...
+* Alvaro Diaz Carmona
+* Jose Santiago
+* Maria Ramos
+* Mikael Chala
+* Supratim Das Bakshi
 
 ## Citation
 
-"*" Please cite ("https://arxiv.org/pdf/2106.05291.pdf")
+* Please cite ("https://arxiv.org/pdf/2106.05291.pdf")
 
-"*" Please cite ("https://arxiv.org/pdf/2106.05291.pdf")
+* Please cite ("https://arxiv.org/pdf/2106.05291.pdf")
