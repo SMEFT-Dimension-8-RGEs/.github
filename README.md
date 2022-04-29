@@ -20,6 +20,6 @@ Model effective operators by pairs of the leading dimension-six interactions at 
 
 Please cite this work, if you use these expressions:
 
-1. ("https://arxiv.org/pdf/2106.05291.pdf")
+1. ["https://arxiv.org/pdf/2106.05291.pdf"]
 
 2. ("https://arxiv.org/pdf/2106.05291.pdf")
